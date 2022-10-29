@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\bin\Debug\CalculatorTester.dll
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\bin\Debug\CalculatorTester.pdb
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\obj\Debug\CalculatorTester.dll
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\obj\Debug\CalculatorTester.pdb
+C:\Users\admin\Desktop\Calculator-master\CalculatorTester\bin\Debug\TextData.csv
